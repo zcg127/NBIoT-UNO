@@ -1,4 +1,4 @@
-update=2018年01月23日 星期二 15时16分30秒
+update=2018年01月23日 星期二 17时38分27秒
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../../Kicad_Library/kicad-symbols
+LibDir=../../kicad_library
 [eeschema/libraries]
 LibName1=Amplifier_Audio
 LibName2=Amplifier_Buffer
@@ -182,3 +182,5 @@ LibName150=Transistor_IGBT
 LibName151=Triac_Thyristor
 LibName152=Valve
 LibName153=Video
+LibName154=sch_lib
+LibName155=ch34x
