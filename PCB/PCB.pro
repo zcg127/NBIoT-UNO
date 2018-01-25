@@ -1,4 +1,4 @@
-update=2018年01月23日 星期二 17时38分27秒
+update=2018年01月25日 星期四 09时37分14秒
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../../kicad_library
+LibDir=../../kicad_library;../library
 [eeschema/libraries]
 LibName1=Amplifier_Audio
 LibName2=Amplifier_Buffer
@@ -184,3 +184,5 @@ LibName152=Valve
 LibName153=Video
 LibName154=sch_lib
 LibName155=ch34x
+LibName156=/home/cloudforce/Project/library/ch34x
+LibName157=/home/cloudforce/Project/library/sch_lib
